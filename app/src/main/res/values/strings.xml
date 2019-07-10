@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">form</string>
+    <string name="form">Form</string>
+    <string name="cpr">CPR</string>
+    <string name="enter_your_cpr">Enter Your CPR</string>
+    <string name="first_name">First Name</string>
+    <string name="enter_your_first_name">Enter Your First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="enter_your_last_name">Enter Your Last Name</string>
+    <string name="gender">Gender</string>
+    <string name="diplomas">Diplomas</string>
+    <string name="email">Email</string>
+    <string name="enter_your_email">Enter Your Email</string>
+    <string name="submit">Submit</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="none">None</string>
+    <string name="phd">PhD</string>
+    <string name="master">Master</string>
+    <string name="bachelor">Bachelor</string>
+    <string name="clear">Clear</string>
+</resources>
